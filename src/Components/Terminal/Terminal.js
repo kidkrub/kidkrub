@@ -4,7 +4,7 @@ import './Terminal.css';
 function Terminal() {
   const [contents, setContents] = useState([
     `
-  Welecome to my portfolio
+  Welcome to my portfolio
   <br />
   If you're interested by my porfolio you can type "help" to see available commands and get started. Thanks.`
   ]);
@@ -113,7 +113,7 @@ function Input(props) {
           `
         Name: Kritsada Moungkhao <br/>
         Birth date: 03/05/1996 <br/>
-        Hobbie: Read books, play games<br />
+        Hobbies: Read books, play games<br />
         Current job: Junior Developer at Atvantage
         `
         );
