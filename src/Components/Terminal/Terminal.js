@@ -77,7 +77,7 @@ function Input(props) {
         help(...args);
         setInputText([]);
         break;
-      case 'cls':
+      case 'clear':
         cls(...args);
         setInputText([]);
         break;
@@ -100,7 +100,7 @@ function Input(props) {
       `
     <div class="help">
       <div>ls</div><div>list directory contents</div>
-      <div>cat</div><div>concatenate and print files</div>
+      <div>cat</div><div>concatenate and print files example: cat profile</div>
     </div>
     `
     );
@@ -110,12 +110,17 @@ function Input(props) {
       case 'profile':
         props.onEnter(
           inputText,
-          `
-        Name: Kritsada Moungkhao <br/>
-        Birth date: 03/05/1996 <br/>
-        Hobbies: Read books, play games<br />
-        Current job: Junior Developer at Atvantage
-        `
+          `Name: Kritsada Moungkhao
+          <br/ >
+          Birth date: 03/05/1996
+          <br/ >
+          Hobbies: Read books, play games
+          <br/ >
+          Education: Bachelor’s degree in Logistics Engineering from King Mongkut's University of Technology North Bangkok
+          <br/ >
+          LinkedIn: <a href="https://www.linkedin.com/in/kidkrub" target="_blank">Profile</a>
+          <br/>
+          Current job: Junior Developer at Atvantage`
         );
         break;
       case 'contact':
