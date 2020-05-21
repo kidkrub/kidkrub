@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kidkrub/static/css/main.4d6f634b.chunk.css",
-    "main.js": "/kidkrub/static/js/main.8576126f.chunk.js",
-    "main.js.map": "/kidkrub/static/js/main.8576126f.chunk.js.map",
+    "main.js": "/kidkrub/static/js/main.b8a0fef5.chunk.js",
+    "main.js.map": "/kidkrub/static/js/main.b8a0fef5.chunk.js.map",
     "runtime-main.js": "/kidkrub/static/js/runtime-main.03f27fd5.js",
     "runtime-main.js.map": "/kidkrub/static/js/runtime-main.03f27fd5.js.map",
     "static/js/2.e125e370.chunk.js": "/kidkrub/static/js/2.e125e370.chunk.js",
     "static/js/2.e125e370.chunk.js.map": "/kidkrub/static/js/2.e125e370.chunk.js.map",
     "index.html": "/kidkrub/index.html",
-    "precache-manifest.09e92d7162d2118c76b5146f05b739ad.js": "/kidkrub/precache-manifest.09e92d7162d2118c76b5146f05b739ad.js",
+    "precache-manifest.ea5e2e27aa4c0668bf347ee8c1d84d40.js": "/kidkrub/precache-manifest.ea5e2e27aa4c0668bf347ee8c1d84d40.js",
     "service-worker.js": "/kidkrub/service-worker.js",
     "static/css/main.4d6f634b.chunk.css.map": "/kidkrub/static/css/main.4d6f634b.chunk.css.map",
     "static/js/2.e125e370.chunk.js.LICENSE.txt": "/kidkrub/static/js/2.e125e370.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.03f27fd5.js",
     "static/js/2.e125e370.chunk.js",
     "static/css/main.4d6f634b.chunk.css",
-    "static/js/main.8576126f.chunk.js"
+    "static/js/main.b8a0fef5.chunk.js"
   ]
 }
